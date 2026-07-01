@@ -1,0 +1,17 @@
+{
+  "texlab": {
+    "command": "texlab",
+    "args": [],
+    "extensionToLanguage": {
+      ".tex": "latex",
+      ".sty": "latex",
+      ".cls": "latex",
+      ".clo": "latex",
+      ".def": "latex",
+      ".lco": "latex",
+      ".rnw": "latex",
+      ".bib": "bibtex",
+      ".bibtex": "bibtex"
+    }
+  }
+}

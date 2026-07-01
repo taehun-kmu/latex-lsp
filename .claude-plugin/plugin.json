@@ -1,0 +1,11 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "latex-lsp",
+  "version": "0.1.0",
+  "description": "LaTeX/BibTeX language server (texlab) for code intelligence",
+  "author": {
+    "name": "Taehun Jung",
+    "email": "taehun@kookmin.ac.kr"
+  },
+  "lspServers": "./.lsp.json"
+}
